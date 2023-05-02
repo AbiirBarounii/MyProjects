@@ -1,5 +1,6 @@
 Hi there 👋
-I'm Abir, a data science engineering student with a passion for analyzing and visualizing complex datasets. 
+
+I'm Abir, a Data Science engineering student with a passion for analyzing and visualizing complex datasets. 
 I'm currently pursuing my engineering's degree in Data Science at ESPRIT University.
 
 
